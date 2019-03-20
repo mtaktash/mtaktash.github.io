@@ -12,7 +12,7 @@ Also I worked in a Berlin-based startup ([some notes in Russian](https://t.me/ma
 
 
 My primary interests include Machine Learning, AI and its real impact beyond buzzwords.
-Lately I've also started thinking about Anthropocene and related issues.
+Lately I also started thinking about Anthropocene and related issues.
 
 
 You can follow me on [twitter](https://twitter.com/akira1no) or
