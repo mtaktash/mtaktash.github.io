@@ -7,7 +7,7 @@ layout: page
 I'm Masha, a Data Science student at Skoltech, Moscow.
 
 
-Previously I've studied Economics at Higher School of Economics in Moscow (a story in Russian is [here](https://cs.hse.ru/news/220235768.html)).
+Previously I studied Economics at Higher School of Economics in Moscow (a story in Russian is [here](https://cs.hse.ru/news/220235768.html)).
 Also I worked in a Berlin-based startup ([some notes in Russian](https://t.me/mashalearning)), volunteered in a hostel at Camino de Santiago in Spain, taught children at a school in Moscow suburbs.
 
 
