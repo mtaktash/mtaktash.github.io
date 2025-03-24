@@ -30,7 +30,7 @@ export const aboutMe: AboutMe = {
   googleScholarUrl: "https://scholar.google.com/citations?user=CcUdBLcAAAAJ&hl=en",
   githubUsername: "mtaktash",
   linkedinUsername: "maria-taktasheva",
-  twitterUsername: "m_taktash",
+  twitterUsername: "mashtaktash",
   // blogUrl: "https://",
   // cvUrl: "https://",
   institutionUrl: "https://www.sfu.ca",
