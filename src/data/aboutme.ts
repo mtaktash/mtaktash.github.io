@@ -23,7 +23,7 @@ export const aboutMe: AboutMe = {
   institution: "Simon Fraser University",
   // Note that links work in the description
   description:
-    "I'm a first-year PhD student at <a href='https://gruvi.cs.sfu.ca/'>SFU GrUVi lab</a> working in the intersection of fields of computer vision and graphics. My current research focuses on better geometry in Gaussian Splatting — creating a better 3D representation of the world.",
+    "I'm a PhD student at <a href='https://gruvi.cs.sfu.ca/'>SFU GrUVi lab</a> working in the intersection of fields of computer vision and graphics. My current research focuses on better geometry in Gaussian Splatting — creating a better 3D representation of the world.",
   email: "maria_taktasheva@sfu.ca",
   imageUrl:
     "/images/profile.jpeg",
