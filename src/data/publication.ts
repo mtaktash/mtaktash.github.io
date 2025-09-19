@@ -18,8 +18,8 @@ export const publicationData: Publication[] = [
     conference: "NeurIPS",
     title: "3D Gaussian Flats: Hybrid 2D/3D Photometric Scene Reconstruction",
     authors: "Maria Taktasheva, Lily Goli, Alessandro Fiorini, Zhen (Colin) Li, Daniel Rebain, Andrea Tagliasacchi",
-    // paperUrl: "https://arxiv.org/abs/2003.05471",
-    // codeUrl: "https://github.com/Vahe1994/Deep-Vectorization-of-Technical-Drawings",
+    paperUrl: "https://theialab.github.io/3dgs-flats",
+    codeUrl: "https://github.com/theialab/3dgs-flats",
     //bibtex: "https://arxiv.org/abs/2409.15476.bib",
     tldr: "3D Gaussian Splatting with planar constraints for improved scene reconstruction. Enables high-quality rendering and meshing of 3D scenes.",
     // imageUrl:
