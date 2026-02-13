@@ -11,6 +11,8 @@ import { experienceData } from "@/data/experience";
 import { PortfolioEntry } from "@/components/portfolio-entry";
 import { portfolioData } from "@/data/portfolio";
 import { sectionOrder, Section } from "@/data/section-order";
+import { ServiceEntry } from "@/components/service-entry";
+import { communityServiceData } from "@/data/service";
 
 export default function Home() {
   return (
@@ -118,11 +120,26 @@ export default function Home() {
                     portfolioData.length > 0 && (
                       <section key={sectionName}>
                         <h2 className="font-serif text-md mb-12 tracking-wide uppercase">
-                          Portfolio
+                          Projects
                         </h2>
                         <div className="space-y-12">
                           {portfolioData.map((portfolio, index) => (
                             <PortfolioEntry key={index} portfolio={portfolio} />
+                          ))}
+                        </div>
+                      </section>
+                    )
+                  );
+                case Section.Service:
+                  return (
+                    communityServiceData.length > 0 && (
+                      <section key={sectionName}>
+                        <h2 className="font-serif text-md mb-4 tracking-wide uppercase">
+                          Reviewer
+                        </h2>
+                        <div className="space-y-6">
+                          {communityServiceData.map((service, index) => (
+                            <ServiceEntry key={index} service={service} />
                           ))}
                         </div>
                       </section>
