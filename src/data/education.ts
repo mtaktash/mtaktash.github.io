@@ -18,7 +18,8 @@ export const educationData: Education[] = [
   {
     year: "2018-2020",
     institution: "Skolkovo Institute of Science and Technology",
-    degree: "M.S. in Mathematics and Computer Science",
+    degree: "M.Sc. in Mathematics and Computer Science",
+    advisor: "Prof. Alexey Artemov",
     thesis: "Learning to Approximate Directional Fields Defined over 2D Planes",
     // Optional links to thesis
     // thesisUrl: "https://dspace.mit.edu/handle/1721.1/149111"
@@ -26,7 +27,8 @@ export const educationData: Education[] = [
   {
     year: "2014-2018",
     institution: "National Research University Higher School of Economics",
-    degree: "B.S. in Economics (Minor in Data Science)",
+    advisor: "Prof. Alexey Artemov",
+    degree: "B.Sc. in Economics (Minor in Data Science)",
     // thesis: "Learnable vector fields",
     // Optional links to thesis
     // thesisUrl: "https://dspace.mit.edu/handle/1721.1/149111"
